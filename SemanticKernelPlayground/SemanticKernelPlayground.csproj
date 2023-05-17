@@ -14,10 +14,4 @@
     <PackageReference Include="Microsoft.SemanticKernel.Connectors.Memory.Qdrant" Version="0.14.547.1-preview" />
     <PackageReference Include="Microsoft.SemanticKernel.Skills.Web" Version="0.14.547.1-preview" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Skills\ChatSkill\Chat\" />
-    <Folder Include="Skills\SecurityScannerSkill\Analyzer\" />
-  </ItemGroup>
-
 </Project>
